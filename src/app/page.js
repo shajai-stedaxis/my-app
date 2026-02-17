@@ -70,7 +70,7 @@ export default function Home() {
       <div className="max-w-4xl mx-auto">
         <header className="mb-12 text-center">
           <h1 className="text-5xl font-extrabold bg-clip-text text-transparent bg-linear-to-r from-pink-400 to-cyan-400 drop-shadow-lg">
-            User Management
+            User Managementt
           </h1>
           <p className="text-gray-300 mt-2 text-lg">Create, Read, Update, Delete</p>
         </header>
